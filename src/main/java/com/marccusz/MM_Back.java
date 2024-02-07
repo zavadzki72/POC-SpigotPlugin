@@ -21,12 +21,12 @@ public final class MM_Back extends JavaPlugin {
         RegisterCommands();
         RegisterInventories();
 
-        Bukkit.getConsoleSender().sendMessage("§a Plugin on - CI/CD");
+        Bukkit.getConsoleSender().sendMessage("§6 Plugin on!");
     }
 
     @Override
     public void onDisable() {
-        Bukkit.getConsoleSender().sendMessage("§c Plugin off!");
+        Bukkit.getConsoleSender().sendMessage("§4 Plugin off!");
     }
 
     private void CreateDatabase(){
