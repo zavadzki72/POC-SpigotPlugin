@@ -1,0 +1,9 @@
+name: MM_Back
+version: '${project.version}'
+main: com.marccusz.MM_Back
+commands:
+  autosoup:
+    description: Configurar utilização do autosoup
+    usage: /<command>
+    permission: mm_back.autosoup
+    aliases: [as, hack]

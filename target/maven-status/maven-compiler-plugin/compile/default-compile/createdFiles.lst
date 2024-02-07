@@ -1,0 +1,15 @@
+com\marccusz\inventories\AutoSoupConfigurationInventory.class
+com\marccusz\Models\AutoSoupConfigurationEntity.class
+com\marccusz\Models\PlayerEntity.class
+com\marccusz\listeners\PlayerEvents$1.class
+com\marccusz\commands\AutoSoupCommand.class
+com\marccusz\Data\Repositories\AutoSoupConfigurationRepository$1.class
+com\marccusz\listeners\PlayerEvents.class
+com\marccusz\utils\InitialTablesDatabaseUtil.class
+com\marccusz\Data\Repositories\PlayerRepository$1.class
+com\marccusz\Data\Repositories\AutoSoupConfigurationRepository.class
+com\marccusz\utils\PlayerUtils.class
+com\marccusz\Data\Repositories\PlayerRepository.class
+com\marccusz\MM_Back.class
+com\marccusz\Data\DataConnectionManager.class
+com\marccusz\utils\SoupUtils.class
